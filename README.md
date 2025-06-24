@@ -12,7 +12,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/_8oXFzra-Es?si=aaLioMp07CmUKqFN)
 
 In this exciting Web3 project, you’ll build and deploy a Blockchain-powered AI ChatGPT DApp with a Subscription-based SaaS model using Next.js, Solidity, and Wagmi Provider.
 
